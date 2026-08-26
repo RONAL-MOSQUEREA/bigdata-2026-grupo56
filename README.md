@@ -1,4 +1,4 @@
-# Big Data (ISD-25) — Grupo NN
+# Big Data (ISD-25) — Grupo 56
 
 **IU Digital de Antioquia** · Ingeniería de Software y Datos · Semestre V · 2026-2
 
@@ -7,8 +7,8 @@
 ## Integrantes
 
 | Nombre | Correo institucional | Usuario de GitHub |
-|---|---|---|
-| | | |
+|Ronal Mosquera|ronal.mosquera@est.iudigital.edu.co|RONAL-MOSQUEREA|
+|Federico Lopez|federico.lopez@est.iudigital.edu.co |fedeveloperz|
 | | | |
 | | | |
 
