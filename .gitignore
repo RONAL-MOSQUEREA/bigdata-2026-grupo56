@@ -1,0 +1,28 @@
+# Datos: no se versionan datasets completos
+*.csv
+*.parquet
+*.json
+*.zip
+*.gz
+!datos/ejemplo_*.csv
+
+# Formato propietario de Databricks: usar .ipynb
+*.dbc
+
+# Exportaciones (se suben a Canvas, no al repositorio)
+*.html
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Credenciales — nunca subir
+.env
+*.token
+*_secret*
