@@ -15,7 +15,7 @@
 # MAGIC | **Caso de estudio** | Wanderbricks (marketplace de alquiler vacacional) |
 # MAGIC | **Fecha de entrega** | domingo 6 de septiembre |
 # MAGIC | **🎥 Enlace al video** | https://docs.google.com/document/d/1hEyQkFYrL2RxJy0zH49hRUeCWQ9FQCsT/edit?usp=drive_link&ouid=106910370328930537306&rtpof=true&sd=true |
-# MAGIC | **Repositorio** | https://github.com/RONAL-MOSQUEREA/bigdata-2026-grupo56 (carpeta `/ea2`) |
+# MAGIC | **Repositorio** |https://github.com/RONAL-MOSQUEREA/bigdata-2026-grupo56 (carpeta `/ea2`) |
 # MAGIC
 # MAGIC > ⚠️ **Antes de entregar:** verificar que el enlace del video abra desde una cuenta distinta a la propia.
 # MAGIC > Un enlace inaccesible se califica como no entregado.
